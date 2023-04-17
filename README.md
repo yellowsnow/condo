@@ -1,4 +1,6 @@
 ## CONDO Project
+[![Java CI with Gradle](https://github.com/yellowsnow/condo/actions/workflows/main.yml/badge.svg)](https://github.com/yellowsnow/condo/actions/workflows/main.yml)
+
 Condo is a project to create a simple and easy to use tool to manage a
 condominium. It is a web application that can be used by the condominium
 administration to manage the condominium and by the condominium residents to
