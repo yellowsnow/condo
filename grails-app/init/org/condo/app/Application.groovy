@@ -4,6 +4,7 @@ import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
 
 import groovy.transform.CompileStatic
+import org.axonframework.springboot.autoconfig.AxonAutoConfiguration
 
 @CompileStatic
 class Application extends GrailsAutoConfiguration {

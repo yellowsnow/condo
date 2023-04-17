@@ -34,3 +34,12 @@ command `grails run-app`.
 ### License
 This software is licensed under the MIT License. See the LICENSE file for
 details.
+
+### Technical Details
+This software is based on the following technologies:
+* [Grails Framework](https://grails.org) : for creating the web application
+* [Axon Framework](https://www.axoniq.io) : for implementing the CQRS pattern and the Event Sourcing
+  pattern
+
+### Contributing
+If you want to contribute to this project, please read the [CONTRIBUTING](CONTRIBUTING.md) file
